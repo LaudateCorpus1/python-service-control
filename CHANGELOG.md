@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-service-control/compare/v1.2.1...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#98](https://github.com/googleapis/python-service-control/issues/98)) ([ca4238f](https://github.com/googleapis/python-service-control/commit/ca4238f594bfd2cfb851b6f2e354b130f269c09d))
+
 ### [1.2.1](https://www.github.com/googleapis/python-service-control/compare/v1.2.0...v1.2.1) (2021-11-01)
 
 
